@@ -41,13 +41,13 @@ class App extends Component {
             <PublicRoute
               path="/register"
               restricted
-              rediredtTo="/contacts"
+              redirectTo="/contacts"
               component={RegisterView}
             />
             <PublicRoute
               path="/login"
               restricted
-              rediredtTo="/contacts"
+              redirectTo="/contacts"
               component={LoginView}
             />
             <PrivateRoute
