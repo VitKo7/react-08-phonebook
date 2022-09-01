@@ -1,4 +1,4 @@
-# goit-react-hw-08-phonebook
+# react-08-phonebook
 
 ## 8_Регистрация и логин пользователя
 
